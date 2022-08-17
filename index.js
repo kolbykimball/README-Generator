@@ -47,7 +47,7 @@ inquirer
         {
             type: 'input',
             message: 'How is this project tested?',
-            name: 'testing'
+            name: 'test'
         },
         {
             type: 'list',

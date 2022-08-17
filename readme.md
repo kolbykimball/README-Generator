@@ -13,13 +13,13 @@
 
   This application will help save time by creating a professional readme file for all your projects.
 
-  ## Guidelines ##
+  ## Contribution ##
   
-  undefined
+  Kolby Kimball
 
   ## Test Instructions ##
   
-  undefined
+  Through VS Code terminal.
   
   ## License ##
   
@@ -31,6 +31,6 @@
 
   ## Email ##
   
-  kolby.kimball10@gmail.com
+  kolby.kimball@gmail.com
   
   
