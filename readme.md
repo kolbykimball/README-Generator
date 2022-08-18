@@ -33,4 +33,7 @@
   
   kolby.kimball@gmail.com
   
+  Here is a link to the video walkthrough
+  https://drive.google.com/file/d/1q6juSrRX6zHtYmoZmeOVsJaLl8c285kQ/view
+  
   
